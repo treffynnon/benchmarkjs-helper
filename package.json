@@ -1,13 +1,21 @@
 {
   "name": "benchmarkjs-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add setupEach and better output to benchmark.js for node",
-  "keywords": [ "benchmark", "benchmarkjs", "beautify-benchmark", "benchmarking", "nodejs", "time", "performance" ],
+  "keywords": [
+    "benchmark",
+    "benchmarkjs",
+    "beautify-benchmark",
+    "benchmarking",
+    "nodejs",
+    "time",
+    "performance"
+  ],
   "homepage": "https://github.com/treffynnon/benchmarkjs-helper",
   "bugs": "https://github.com/treffynnon/benchmarkjs-helper/issues",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/treffynnon/benchmarkjs-helper.git"
+    "type": "git",
+    "url": "https://github.com/treffynnon/benchmarkjs-helper.git"
   },
   "engines": {
     "node": ">=8.0.0"
