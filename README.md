@@ -1,5 +1,9 @@
 # Benchmark.js helper for node
 
+## DEPRECATED
+
+With the general availability of [Benny](https://github.com/caderek/benny) this library/hack is no longer all that useful so I am no longer maintaining it.
+
 ## What it does
 
 It is a very simple wrapper around benchmark.js and more specifically the `Benchmark.Suite` with the
